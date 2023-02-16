@@ -984,10 +984,9 @@
   "users": [
     {
       "id": 1,
-      "Username": "coreyschafer",
-      "Avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJ2pUBxh3ciHtLXRZoZRvNAF_e023Y-70YJTYRjMo&s",
-      "Email": "sj@gmail.com",
-      "Password": "sj@123456"
+      "Username": "SJ",
+      "Email": "admin@stockbroker.com",
+      "Password": "admin123"
     }
   ],
   "blogs": [
